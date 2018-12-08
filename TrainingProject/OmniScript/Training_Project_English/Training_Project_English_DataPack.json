@@ -1,6 +1,8 @@
 {
     "%vlocity_namespace%__Element__c": [
         "Training_Project_English_Element_Step1.json",
+        "Training_Project_English_Element_Step2.json",
+        "Training_Project_English_Element_Text1.json",
         "Training_Project_English_Element_Step3.json",
         "Training_Project_English_Element_Checkbox1.json"
     ],
